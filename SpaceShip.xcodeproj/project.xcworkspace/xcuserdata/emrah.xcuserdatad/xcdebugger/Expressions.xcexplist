@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in ViewController.tableView(_:trailingSwipeActionsConfigurationForRowAt:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.addFavourite(_:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedIndexRow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteViewController.tableView(_:numberOfRowsInSection:):FavouriteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "petitions.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavouriteViewController.prepare(for:sender:):FavouriteViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favourites">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.viewDidAppear(_:):DetailViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
